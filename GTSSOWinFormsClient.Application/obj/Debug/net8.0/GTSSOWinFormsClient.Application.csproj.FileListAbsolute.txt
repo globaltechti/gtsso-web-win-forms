@@ -1,0 +1,15 @@
+C:\projetos\global\GTSSO-WinFormsClient\GTSSOWinFormsClient.Application\bin\Debug\net8.0\GTSSOWinFormsClient.Application.deps.json
+C:\projetos\global\GTSSO-WinFormsClient\GTSSOWinFormsClient.Application\bin\Debug\net8.0\GTSSOWinFormsClient.Application.dll
+C:\projetos\global\GTSSO-WinFormsClient\GTSSOWinFormsClient.Application\bin\Debug\net8.0\GTSSOWinFormsClient.Application.pdb
+C:\projetos\global\GTSSO-WinFormsClient\GTSSOWinFormsClient.Application\obj\Debug\net8.0\GTSSOWinFormsClient.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\global\GTSSO-WinFormsClient\GTSSOWinFormsClient.Application\obj\Debug\net8.0\GTSSOWinFormsClient.Application.AssemblyInfoInputs.cache
+C:\projetos\global\GTSSO-WinFormsClient\GTSSOWinFormsClient.Application\obj\Debug\net8.0\GTSSOWinFormsClient.Application.AssemblyInfo.cs
+C:\projetos\global\GTSSO-WinFormsClient\GTSSOWinFormsClient.Application\obj\Debug\net8.0\GTSSOWinFormsClient.Application.csproj.CoreCompileInputs.cache
+C:\projetos\global\GTSSO-WinFormsClient\GTSSOWinFormsClient.Application\obj\Debug\net8.0\GTSSOWinFormsClient.Application.dll
+C:\projetos\global\GTSSO-WinFormsClient\GTSSOWinFormsClient.Application\obj\Debug\net8.0\refint\GTSSOWinFormsClient.Application.dll
+C:\projetos\global\GTSSO-WinFormsClient\GTSSOWinFormsClient.Application\obj\Debug\net8.0\GTSSOWinFormsClient.Application.pdb
+C:\projetos\global\GTSSO-WinFormsClient\GTSSOWinFormsClient.Application\obj\Debug\net8.0\ref\GTSSOWinFormsClient.Application.dll
+C:\projetos\global\GTSSO-WinFormsClient\GTSSOWinFormsClient.Application\bin\Debug\net8.0\GTSSO_WinFormsClient.Models.dll
+C:\projetos\global\GTSSO-WinFormsClient\GTSSOWinFormsClient.Application\bin\Debug\net8.0\GTSSO_WinFormsClient.Models.pdb
+C:\projetos\global\GTSSO-WinFormsClient\GTSSOWinFormsClient.Application\obj\Debug\net8.0\GTSSOWinFormsClient.Application.csproj.AssemblyReference.cache
+C:\projetos\global\GTSSO-WinFormsClient\GTSSOWinFormsClient.Application\obj\Debug\net8.0\GTSSOWin.8EE1C75B.Up2Date

@@ -1,0 +1,12 @@
+C:\projetos\global\GTSSO-WinFormsClient\GTSSO_WinFormsClient.Models\bin\Debug\net8.0\GTSSO_WinFormsClient.Models.deps.json
+C:\projetos\global\GTSSO-WinFormsClient\GTSSO_WinFormsClient.Models\bin\Debug\net8.0\GTSSO_WinFormsClient.Models.dll
+C:\projetos\global\GTSSO-WinFormsClient\GTSSO_WinFormsClient.Models\bin\Debug\net8.0\GTSSO_WinFormsClient.Models.pdb
+C:\projetos\global\GTSSO-WinFormsClient\GTSSO_WinFormsClient.Models\obj\Debug\net8.0\GTSSO_WinFormsClient.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\global\GTSSO-WinFormsClient\GTSSO_WinFormsClient.Models\obj\Debug\net8.0\GTSSO_WinFormsClient.Models.AssemblyInfoInputs.cache
+C:\projetos\global\GTSSO-WinFormsClient\GTSSO_WinFormsClient.Models\obj\Debug\net8.0\GTSSO_WinFormsClient.Models.AssemblyInfo.cs
+C:\projetos\global\GTSSO-WinFormsClient\GTSSO_WinFormsClient.Models\obj\Debug\net8.0\GTSSO_WinFormsClient.Models.csproj.CoreCompileInputs.cache
+C:\projetos\global\GTSSO-WinFormsClient\GTSSO_WinFormsClient.Models\obj\Debug\net8.0\GTSSO_WinFormsClient.Models.dll
+C:\projetos\global\GTSSO-WinFormsClient\GTSSO_WinFormsClient.Models\obj\Debug\net8.0\refint\GTSSO_WinFormsClient.Models.dll
+C:\projetos\global\GTSSO-WinFormsClient\GTSSO_WinFormsClient.Models\obj\Debug\net8.0\GTSSO_WinFormsClient.Models.pdb
+C:\projetos\global\GTSSO-WinFormsClient\GTSSO_WinFormsClient.Models\obj\Debug\net8.0\ref\GTSSO_WinFormsClient.Models.dll
+C:\projetos\global\GTSSO-WinFormsClient\GTSSO_WinFormsClient.Models\obj\Debug\net8.0\GTSSO_WinFormsClient.Models.csproj.AssemblyReference.cache
